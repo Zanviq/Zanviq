@@ -24,24 +24,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Zanviq&style=flat-square&color=7C3AED&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/Zanviq?style=flat-square&color=6D28D9&label=Followers"/>
-<img src="https://img.shields.io/github/stars/Zanviq?style=flat-square&color=4F46E5&label=Stars"/>
-
 </div>
-
----
-
-## About
-
-I'm an AI-major undergrad at Kookmin University who learns by building. My work spans full-stack development, systems programming, and AI-integrated applications — with a recurring focus on educational AI tools for younger learners.
-
-I prefer custom-built solutions over off-the-shelf platforms: a self-hosted home server stack on a Raspberry Pi, an educational storytelling platform for elementary students, and various AI-assisted developer tooling experiments. I value evidence-based thinking and practical, self-contained engineering.
-
-**Open to:** collaboration on AI/education projects · open-source contributions · full-stack & AI engineering work
 
 ---
 
@@ -76,71 +59,6 @@ I prefer custom-built solutions over off-the-shelf platforms: a self-hosted home
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-
----
-
-## Featured Projects
-
-<details>
-<summary><b>iljjagom (일짜곰) — Educational storytelling platform</b></summary>
-
-<br/>
-
-A platform where elementary students author their own stories and teachers assign topics. Built with structured AI prompt scaffolding and automatic rule enforcement via a root config file.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | FastAPI · Supabase · Google Auth · React |
-| **Focus** | Background-task design to hide AI latency |
-| **Users** | Elementary students & teachers |
-| **Repository** | [View on GitHub](https://github.com/Zanviq) |
-
-</details>
-
-<details>
-<summary><b>Home Server (Raspberry Pi 5) — Self-hosted cloud stack</b></summary>
-
-<br/>
-
-A fully custom home server replacing off-the-shelf tools like Nextcloud. FastAPI backend, React + Tailwind dashboard, Gemini-powered AI features, and secure remote access.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | FastAPI · React · Tailwind · Docker Compose |
-| **AI** | Google Gemini API |
-| **Access** | Cloudflare Tunnel · Tailscale |
-| **Repository** | [View on GitHub](https://github.com/Zanviq) |
-
-</details>
-
-<details>
-<summary><b>Conversation-Tree — Branch-context memory linking</b></summary>
-
-<br/>
-
-An experiment in conversation UX where message branches carry linked context memory, letting each branch retain relevant history.
-
-| Aspect | Detail |
-|---|---|
-| **Focus** | Branch-context memory linking |
-| **Type** | UI / interaction experiment |
-| **Repository** | [View on GitHub](https://github.com/Zanviq) |
-
-</details>
-
-<details>
-<summary><b>More projects</b></summary>
-
-<br/>
-
-- **Nodi** — HTML/CSS learning-partner chat UI with a conversation-flow SVG tree
-- **Plant-Counselor** — AI-assisted advisory tool
-- **EvalVoteAI** — evaluation & voting utility
-- **hierarchical-semantic-memory-system** — layered semantic memory architecture
-
-See all repositories on my [profile](https://github.com/Zanviq).
-
-</details>
 
 ---
 
