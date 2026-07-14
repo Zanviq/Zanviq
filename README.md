@@ -68,19 +68,11 @@
 
 <img src="https://raw.githubusercontent.com/Zanviq/Zanviq/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
 
-<br/>
-
-<img height="165" src="https://raw.githubusercontent.com/Zanviq/Zanviq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
-<img height="165" src="https://raw.githubusercontent.com/Zanviq/Zanviq/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Zanviq&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=6D28D9&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
 
-<br/>
-
-<img height="165" src="https://raw.githubusercontent.com/Zanviq/Zanviq/main/profile-summary-card-output/github_dark/3-stats.svg"/>
-<img height="165" src="https://raw.githubusercontent.com/Zanviq/Zanviq/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
 
 </div>
 
