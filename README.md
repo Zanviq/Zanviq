@@ -66,8 +66,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zanviq&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=6D28D9&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanviq&layout=compact&hide_border=true&title_color=7C3AED&text_color=c9d1d9&bg_color=0d1117"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zanviq&theme=github_dark"/>
+
+<br/>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zanviq&theme=github_dark"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zanviq&theme=github_dark"/>
 
 <br/>
 
@@ -75,11 +79,8 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Zanviq&theme=algolia&no-frame=true&column=7&margin-w=10"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zanviq&bg_color=0d1117&color=c9d1d9&line=7C3AED&point=ffffff&area=true&hide_border=true"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zanviq&theme=github_dark"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zanviq&theme=github_dark&utcOffset=9"/>
 
 </div>
 
