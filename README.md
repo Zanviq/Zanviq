@@ -66,12 +66,12 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zanviq&theme=github_dark"/>
+<img src="https://raw.githubusercontent.com/Zanviq/Zanviq/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
 
 <br/>
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zanviq&theme=github_dark"/>
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zanviq&theme=github_dark"/>
+<img height="165" src="https://raw.githubusercontent.com/Zanviq/Zanviq/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+<img height="165" src="https://raw.githubusercontent.com/Zanviq/Zanviq/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
 
 <br/>
 
@@ -79,8 +79,8 @@
 
 <br/>
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zanviq&theme=github_dark"/>
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zanviq&theme=github_dark&utcOffset=9"/>
+<img height="165" src="https://raw.githubusercontent.com/Zanviq/Zanviq/main/profile-summary-card-output/github_dark/3-stats.svg"/>
+<img height="165" src="https://raw.githubusercontent.com/Zanviq/Zanviq/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
 
 </div>
 
