@@ -28,40 +28,6 @@
 
 ---
 
-## Tech Stack
-
-**Languages**
-
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
-
-**Frontend**
-
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-**Backend & Databases**
-
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Spring](https://skillicons.dev/icons?i=spring)
-![Supabase](https://skillicons.dev/icons?i=supabase)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
-**Cloud, DevOps & Tooling**
-
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-
----
-
 ## GitHub Analytics
 
 <div align="center">
