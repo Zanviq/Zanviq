@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:4F46E5&height=200&section=header&text=Zanviq&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20AI%20Builder&descSize=18&descAlignY=58&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Learning+by+building.;Full-stack+%2B+Systems+%2B+AI-integrated+apps.;Educational+AI+tools+builder." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Learning+by+building.;Full-stack+%2B+Systems+%2B+AI-integrated+apps." alt="Typing SVG" />
 </a>
 
 <br/>
