@@ -32,8 +32,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Zanviq/Zanviq/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
-
 
 <br/>
 
