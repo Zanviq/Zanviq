@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-<a href="https://zanviq.dev">
+<a href="https://www.zanviq.dev">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:zanviq.dev@gmail.com">
